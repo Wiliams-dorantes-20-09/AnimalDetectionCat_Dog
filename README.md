@@ -3,6 +3,8 @@
 ## Project Overview  
 This project focuses on developing a Convolutional Neural Network (CNN) for detecting and classifying two types of animals: **dogs** and **cats**. The model is built using **TensorFlow** and **Keras** and is trained with an augmented dataset to improve accuracy.
 
+![datafrog](img/datafrog.jpg)
+
 ## Features  
 - Uses a **deep learning model** to classify images of animals.  
 - Implements **data augmentation** techniques to improve generalization.  
